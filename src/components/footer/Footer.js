@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer id="footer">
       <a href="" className="footer__logo">
-        JANNATUL
+        SOHEL RANA SAJIB
       </a>
       <ul className="permalinks">
         <li>
@@ -46,7 +46,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; Jannatul All rights reserved </small>
+        <small>&copy; sajib All rights reserved </small>
       </div>
     </footer>
   );
